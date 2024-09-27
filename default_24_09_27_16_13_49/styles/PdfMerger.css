@@ -1,0 +1,12 @@
+.pdf-merger {
+  margin: 20px 0;
+}
+
+.pdf-merger ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.pdf-merger li {
+  margin: 5px 0;
+}

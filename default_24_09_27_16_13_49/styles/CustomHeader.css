@@ -1,0 +1,15 @@
+.custom-header {
+  background-color: #007BFF;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.custom-header nav {
+  margin-top: 10px;
+}
+
+.custom-header nav a {
+  color: white;
+  margin: 0 10px;
+}

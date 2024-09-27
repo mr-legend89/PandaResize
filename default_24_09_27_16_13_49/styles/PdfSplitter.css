@@ -1,0 +1,12 @@
+.pdf-splitter {
+  margin: 20px 0;
+}
+
+.pdf-splitter ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.pdf-splitter li {
+  margin: 5px 0;
+}
